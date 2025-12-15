@@ -19,37 +19,10 @@ I’m especially interested in system design, automation and AI-driven solutions
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-🏥 <b><a href="https://github.com/furkannaydn/hospital_management_system">Hospital Management System</a></b><br/>
-Desktop application for managing patients, doctors and appointments
-<br/><br/>
-🤖 <b><a href="https://github.com/furkannaydn/ai-assistant">AI Assistant</a></b><br/>
-Automation-focused intelligent software
-<br/><br/>
-🌱 <b><a href="https://github.com/furkannaydn/smart-agriculture">Smart Agriculture App</a></b><br/>
-Software solution for agriculture-related data
-</p>
 
----
 
-<h3 align="center">🎯 Current Focus</h3>
-<p align="center">
-• Building application-oriented software projects<br/>
-• Exploring AI-powered automation<br/>
-• Improving system design skills
-</p>
 
----
 
-<h3 align="center">🧠 How I Work</h3>
-<p align="center">
-• I focus on understanding the problem before choosing the technology<br/>
-• I prefer clean, maintainable and scalable solutions<br/>
-• I learn best by building real applications
-</p>
-
----
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">

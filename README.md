@@ -70,9 +70,7 @@ I’m especially interested in system design, automation and AI-driven solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannaydn&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkannaydn" />
-</p>
+
 
 ---
 

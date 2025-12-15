@@ -2,23 +2,67 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h3 align="center">Software developer interested in building practical applications</h3>
 
-<h1 align="center">Hi 👋, I'm FURKAN</h1>
-<h3 align="center">Software developer interested in application development</h3>
+---
 
-- 📫how to reach me :**faydn.3575@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/furkanaydin0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanaydin0" height="30" width="40" /></a>
-<a href="https://medium.com/@businessfurkan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@businessfurkan1" height="30" width="40" /></a>
+### 👨‍💻 About Me
+- I enjoy building real-world applications and turning ideas into working software  
+- Interested in application development, automation and AI technologies  
+- Focused on learning by building meaningful and impactful projects  
+
+---
+
+### 🎯 Current Focus
+- Building scalable and maintainable software systems  
+- Improving system design and software architecture  
+- Working on AI-assisted and automation-focused projects  
+
+---
+
+### 🚀 Featured Projects
+- 🏥 **Hospital Management System** – A complete application for managing patients, doctors and appointments  
+- 🤖 **AI-Powered Assistant** – Intelligent software focused on automation and smart interactions  
+- 🌱 **Smart Agriculture Project** – A software solution designed to support agriculture-related decisions  
+
+---
+
+### 🛠️ Skills & Tools
+- Application Development  
+- Desktop & Web Technologies  
+- Backend Concepts & Databases  
+- Cloud & Deployment Basics  
+- Computer Vision & AI Fundamentals  
+
+---
+
+### 🤝 Soft Skills
+- Problem Solving  
+- Analytical Thinking  
+- Continuous Learning  
+- Team Collaboration  
+
+---
+
+### 📫 How to reach me
+- **Email:** faydn.3575@gmail.com  
+- **GitHub:** https://github.com/furkannaydn  
+- **LinkedIn:** https://linkedin.com/in/furkanaydin0  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkannaydn&show_icons=true&locale=en" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkannaydn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannaydn&layout=compact" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannaydn&show_icons=true&locale=en&layout=compact" alt="furkannaydn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkannaydn&show_icons=true&locale=en" alt="furkannaydn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkannaydn&" alt="furkannaydn" /></p>
-
+### ⚡ Fun Fact
+I prefer building complete systems rather than small demo projects.

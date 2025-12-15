@@ -1,4 +1,5 @@
-[![MasterHead](https://www.techrepublic.com/article/top-software-development-technologies/)
+![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
 <h1 align="center">Hi 👋, I'm FURKAN</h1>
 <h3 align="center">Software developer interested in application development</h3>
 

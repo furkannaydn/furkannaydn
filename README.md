@@ -6,7 +6,7 @@
 <h3 align="center">Software developer interested in application development</h3>
 
 <p align="center">
-  📫 <b>faydn.3575@gmail.com</b>
+  📫 <b>furkanaydinn70@gmail.com</b>
 </p>
 
 ---
